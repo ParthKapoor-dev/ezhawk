@@ -44,13 +44,13 @@ insert into users values( 6 , 'Deepok' , 'Kalal', 'D335 , Hostel B , Thapar , Pa
 insert into users values( 7 , 'Ramneek' , 'Sharma', 'C109 , Hostel C , Thapar , Patiala , Punjab');
 insert into users values( 8 , 'Aarya' , 'Underage' , 'B104 , Hostel C , Thapar , Patiala , Punjab');
 
-insert into contact_numbers values(1 , 6395696432);
-insert into contact_numbers values(1 , 9456032926);
-insert into contact_numbers values(2 , 7009822678);
-insert into contact_numbers values(2 , 9815529664);
-insert into contact_numbers values(3 , 8979374457);
-insert into contact_numbers values(3 , 6280167251);
-insert into contact_numbers values(4 , 6283760168);
+insert into contact_numbers values(1 , 9999999990);
+insert into contact_numbers values(1 , 9999999991);
+insert into contact_numbers values(2 , 9999999992);
+insert into contact_numbers values(2 , 9999999993);
+insert into contact_numbers values(3 , 9999999994);
+insert into contact_numbers values(3 , 9999999995);
+insert into contact_numbers values(4 , 9999999996);
 
 
 
